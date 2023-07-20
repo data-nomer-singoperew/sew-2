@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://data-nomer-singoperew.github.io/sew-2/sitemap.xml
